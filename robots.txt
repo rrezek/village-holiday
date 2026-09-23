@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /kampanje/
+Sitemap: https://www.village-holiday.com/sitemap.xml
